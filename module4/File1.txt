@@ -1,0 +1,4 @@
+	1. Using get-eventlog, open the most recent 10 events under the application log
+	2. Find the event for SecurityCenter - Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.
+		a. HINT: You may have to increase the number of most recent events
+	3. Download the foldera.7z from Canvas and use the number you found here to unzip the file and go onto the next step.

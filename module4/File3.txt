@@ -1,0 +1,4 @@
+	1. Using get-winevent, open the most recent 10 events under the security log
+	2. Find the event for "An account was successfully logged on"
+		a. HINT: You may have to increase the number of most recent events
+	3. Download the folderb.7z from Canvas and use the number you found here to unzip the file and go onto the next step.
